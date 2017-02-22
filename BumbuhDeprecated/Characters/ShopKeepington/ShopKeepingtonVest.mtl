@@ -1,0 +1,50 @@
+newmtl BowtieSG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl HatSG1
+illum 4
+Kd 0.02 0.50 0.00
+Ka 0.00 0.00 0.00
+Tf 0.82 0.82 0.82
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31
+newmtl HatSG3
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31
+newmtl MeshSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl ShopKeepingtonVest:BASIC_FABRIC_FRONT
+illum 4
+Kd 0.27 0.47 0.17
+Ka 0.11 0.19 0.07
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 3.35
+newmtl ShopkeepingtonHead:defaultMat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd ShopkeepingtonHead.tga
+Ni 1.00
+newmtl blinn1SG
+illum 4
+Kd 0.76 0.48 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.97 0.60 0.02
